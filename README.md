@@ -25,7 +25,7 @@ I am a Software Engineering student and aspiring technical founder. I focus on b
 ### GitHub Analytics
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?user=shrigobishan1-ops&show_icons_=true&theme=tokypnight&hide_border=true" alt="GitHub stats" height="180px"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=shrigobishan1-ops&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub stats"  height="180px"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrigobishan1-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
    </p>
 
