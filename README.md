@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Shrigobishan
 
-<!--
-**shrigobishan1-ops/shrigobishan1-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineering student and aspiring technical founder. I focus on building clean, high-perfomance applications, nastering system architecture, and turning complex ideas into functional code.
 
-Here are some ideas to get you started:
+--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What i'm working on
+- Developing full-stack applications and software solutions.
+- Refining my skills in software architecture and robust backend systems.
+- Applying the same discipline to my code that I do to heavy execution in daily life.
+
+
+### Tech stack & Tools
+- **Languages:** JavaScript, TypeScript, Python ( HTML, CSS, JAVA)
+- **Frameworks & Tools:** Node.js, React, Git, Docker
+- **Aesthetic Focus:** Clean architecture, optimized perfomance, dark-mode interfaces
+
+--
+
+
+### GitHub Analytics
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?user=shrigobishan1-ops&show_icons_=true&theme=tokypnight&hide_border=true" alt="GitHub stats" height="180px"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrigobishan1-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+   </p>
+
+--
+
+###  Connect With Me
+- [Linkedin] 
+- [Portfolio]
+
