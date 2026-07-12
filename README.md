@@ -33,5 +33,5 @@ I am a Software Engineering student and aspiring technical founder. I focus on b
 
 ###  Connect With Me
 - [Linkedin] 
-- [https://github.com/shrigobishan1-ops]
+- Portfolio- [https://github.com/shrigobishan1-ops]
 
